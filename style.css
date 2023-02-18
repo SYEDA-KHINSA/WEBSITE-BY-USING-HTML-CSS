@@ -1,0 +1,49 @@
+body{
+    background-image:url("website0.2.webp");
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li{
+    float:left
+}
+li a:hover{
+    background-color: #111;
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+    
+}
+h1{
+    text-align: center;
+    background-color: rgb(173, 222, 231);
+}
+h2{
+    color: rgb(40, 97, 97);
+    font-style: italic;
+    font-size: 30px;
+    background-color: rgb(198, 155, 169);
+}
+div{
+    border-width: 2px 3px 5px 2px;
+    border-color: black;
+    border-style: hidden;
+    margin: 20px;
+    padding: 10px;
+}
+p{
+    color: black;
+    font-style: italic;
+    font-size: large;
+}  
